@@ -1,0 +1,15 @@
+body{
+    box-sizing: border-box;
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+}
+.card{
+    width: 27vw;
+    display: flex;
+    height: 35vh;
+}
+.card-img{{width:100%;}
+
+
+}
